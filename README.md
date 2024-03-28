@@ -6,7 +6,7 @@
 
 ## My name is Milena Rizzi
 
-( React JS | Typescript | Javascript | HTML | CSS ) 🚀 
+( Java | React JS | Typescript | Javascript | HTML | CSS ) 🚀 
 
 - 🎓 Computer Science Student
 - 🌐 Passionate about web development
