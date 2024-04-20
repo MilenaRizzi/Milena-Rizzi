@@ -2,8 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milena-clara-ribeiro-a38944254/)](https://www.linkedin.com/in/milena-clara-ribeiro-a38944254/)
 
-<img align="right" alt="Computer image" src="./computer.jpg"  width="250px" style="margin-bottom: 200px;"/>
-<br><br><br>
+<div style="margin-bottom: 20px;">
+  <img align="right" alt="Computer image" src="./computer.jpg" width="300px"/>
+</div>
 ## My name is Milena Rizzi
 
 ( Java | Spring Boot | PostgreSQL | React JS | Typescript | Javascript | HTML | CSS ) 🚀 
