@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milena-clara-ribeiro-a38944254/)](https://www.linkedin.com/in/milena-clara-ribeiro-a38944254/)
 
 <div style="margin-bottom: 20px;">
-  <img align="right" alt="Computer image" src="./computer.jpg" width="300px"/>
+  <img align="right" alt="Computer image" src="./computer.jpg" width="280px"/>
 </div>
 ## My name is Milena Rizzi
 
