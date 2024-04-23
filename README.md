@@ -5,7 +5,8 @@
 <div style="margin-bottom: 20px;">
   <img align="right" alt="Computer image" src="./computer.jpg" width="280px"/>
 </div>
-##My name is Milena Rizzi
+
+My name is **Milena Rizzi**
 
 ( Java | Spring Boot | PostgreSQL | React JS | Typescript | Javascript | HTML | CSS ) 🚀 
 
